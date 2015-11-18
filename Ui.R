@@ -1,5 +1,3 @@
-#Set your own working directory
-setwd("/Users/augustinjossa/Desktop/MOOC/Programming_assignment/Data_Product")
 library(shiny)
 
 shinyUI(
